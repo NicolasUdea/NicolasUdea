@@ -1,4 +1,4 @@
-![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6710ecda-d179-4c83-ade9-1de611f6ca9f/d5exlom-e5a9dd2e-c63c-4306-9958-394dd696e09b.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY3MTBlY2RhLWQxNzktNGM4My1hZGU5LTFkZTYxMWY2Y2E5ZlwvZDVleGxvbS1lNWE5ZGQyZS1jNjNjLTQzMDYtOTk1OC0zOTRkZDY5NmUwOWIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.RSfc7SOGzOilj4neT7A_1o3WZWmAiXuFUfAdiOQnfCA)
+![MasterHead](https://raw.githubusercontent.com/gist/brudnak/aba00c9a1c92d226f68e8ad8ba1e0a40/raw/e1e4a92f6072d15014f19aa8903d24a1ac0c41a4/nyan-cat.gif)
 <h1 align="center">Hi 👋, I'm Nicolas Vargas</h1>
 <h3 align="center">A passionate developer student from Colombia</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
