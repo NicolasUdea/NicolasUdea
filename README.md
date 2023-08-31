@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **POO, Machine Learning, Deep Learning, AI**
 
-- 👯 I’m looking to collaborate on **any new student**
+- 👯 I’m looking to collaborate with **any new student**
 
 - 🤝 I’m looking for help with **POO**
 
