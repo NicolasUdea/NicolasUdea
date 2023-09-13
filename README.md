@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **NEW THINGS!**
 
-- 🌱 I’m currently learning **POO, Machine Learning, Deep Learning, AI**
+- 🌱 I’m currently learning **OOP, Machine Learning, Deep Learning, AI**
 
 - 👯 I’m looking to collaborate with **any new student**
 
