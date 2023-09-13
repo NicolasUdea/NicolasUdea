@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate with **any new student**
 
-- 🤝 I’m looking for help with **POO**
+- 🤝 I’m looking for help with **OOP**
 
 - 📫 How to reach me **nicolas.vargasf@udea.edu.co**
 
